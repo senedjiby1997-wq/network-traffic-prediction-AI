@@ -17,7 +17,7 @@ The model learns from past traffic data (bandwidth, latency, packet rate, etc.) 
 - Python 3
 - NumPy, Pandas, Matplotlib, TensorFlow/Keras, Scikit-learn
 - Seaborn, Plotly
-- (Optional) Streamlit, AWS EC2
+- (Optional) Streamlit
 
 ## 📊 Example Output
 LSTM achieved R² = 0.95 with realistic time-series data.
